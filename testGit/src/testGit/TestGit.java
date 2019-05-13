@@ -1,7 +1,7 @@
 package testGit;
 
 public class TestGit {
-
+	int b =2;
 	public static void main(String[] args) {
 		System.out.println("测试第二次");
 
