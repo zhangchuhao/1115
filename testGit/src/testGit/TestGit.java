@@ -3,7 +3,7 @@ package testGit;
 public class TestGit {
 
 	int d =4;
-
+	int d1 =4;
 	int c =3;
 
 	int b =3;
