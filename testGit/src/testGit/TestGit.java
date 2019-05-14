@@ -1,7 +1,11 @@
 package testGit;
 
 public class TestGit {
+
 	int d =4;
+
+	int c =3;
+
 	int b =3;
 	int a =3;
 	public static void main(String[] args) {
